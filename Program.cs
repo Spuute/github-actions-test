@@ -6,7 +6,7 @@ namespace github_actions_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WrteLine("Hello World!");
         }
     }
 }
